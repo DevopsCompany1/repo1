@@ -1,5 +1,6 @@
 package coreJava; //U.D.P
-
+//Modified java 
+//this is basic java class
 public class ArthematicClass { // class -by compiler
 
 	int i = 20, j = 10, k; // V.D
