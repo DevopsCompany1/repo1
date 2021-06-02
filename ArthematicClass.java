@@ -11,7 +11,7 @@ public class ArthematicClass { // class -by compiler
 		System.out.println("addition result is :" + k);
 	}
 
-	public void mutli() { // U.D.M
+	privite void mutli() { // U.D.M
 
 		k = i * j; // B.L
 		System.out.println("mutli result is :" + k);
