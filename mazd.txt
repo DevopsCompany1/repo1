@@ -5,3 +5,6 @@ samle code period
 
 
 scm period check project
+
+
+scm period check project repo1 latest 
